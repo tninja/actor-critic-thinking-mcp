@@ -6,32 +6,6 @@ A dual-perspective thinking analysis server based on Model Context Protocol (MCP
   <img width="380" height="200" src="https://glama.ai/mcp/servers/@aquarius-wing/critical-thinking-mcp/badge" alt="Critical Thinking Server MCP server" />
 </a>
 
-## Showcase
-
-![demo1-with-thinking.png](/assets/demo1-with-thinking.png)
-
-### Without Critical Thinking
-
-![demo1-without-thinking.png](/assets/demo1-without-thinking.png)
-
-## Features
-
-- **Dual-perspective Analysis**: Alternates between actor (creator/performer) and critic (analyzer/evaluator) perspectives
-- **Round Tracking**: Tracks rounds of dual-perspective analysis
-- **Balanced Assessment**: Combines empathetic understanding with objective analysis
-- **Multi-dimensional Evaluation**: Generates nuanced, multi-dimensional assessments
-- **Actionable Feedback**: Provides constructive improvement suggestions
-
-## Use Cases
-
-- Evaluating artistic performances, creative works, or strategic decisions
-- Analyzing the gap between intention and execution
-- Providing constructive feedback that considers both creative vision and technical execution
-- Reviewing complex scenarios that require both empathy and objectivity
-- Situations requiring balanced assessment of subjective and objective criteria
-- Performance reviews that need both self-reflection and external evaluation
-- Creative processes that benefit from iterative refinement
-
 ## Parameters
 
 ### Required Parameters
