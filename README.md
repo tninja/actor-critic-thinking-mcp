@@ -5,6 +5,7 @@ A dual-perspective thinking analysis server based on Model Context Protocol (MCP
 ## How to use
 
 - build firstly with `npm install && npm run build`
+  - It will generate `dist/index.js` file
 
 - config this mcp in your mcp client such as Claude Code
 
