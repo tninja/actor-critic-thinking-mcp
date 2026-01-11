@@ -58,12 +58,19 @@ A dual-perspective thinking analysis server based on Model Context Protocol (MCP
 
 ## How to use
 
+- build firstly with `npm install && npm run build`
+
+- config this mcp in your mcp client such as Claude Code
+
 ```json
 {
   "mcpServers": {
-    "actor-critic-thinking": {
-      "command": "npx",
-      "args": ["-y", "mcp-server-actor-critic-thinking"]
+    "actor-critic-thinking": { 
+      "command": "node", 
+      "args": [
+        "<path>/actor-critic-thinking-mcp/dist/index.js"
+      ],
+      "env": {}
     }
   }
 }
