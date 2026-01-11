@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "MCP server for critical thinking and analysis using actor-critic methodology",
   "license": "MIT",
-  "author": "Aquarius Wing",
+  "author": "Aquarius Wing, Kang Tu",
   "bugs": "https://github.com/aquarius-wing/actor-critic-thinking-mcp/issues",
   "type": "module",
   "bin": {
